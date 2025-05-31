@@ -9,7 +9,7 @@ const About = () => {
     <div className=''>
     <Navbar title="Comic World"/>
     </div>
-    <div className="  p-8  bg-center bg-cover bg-[url('1310205.jpeg')] ">
+    <div className="  p-8  bg-center bg-cover bg-[url('/1310205.jpeg')] ">
       <div className="max-w-4xl mx-auto bg-white opacity-85 shadow-md rounded-lg p-6">
         <h1 className="text-4xl font-bold text-center mb-8">About Us</h1>
         <div className="text-black space-y-4">
