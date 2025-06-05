@@ -5,7 +5,7 @@ import Navbar from './Navbar';
 const About = () => {
   return (
     <>
-      
+    
     <div className=''>
     <Navbar title="Comic World"/>
     </div>
