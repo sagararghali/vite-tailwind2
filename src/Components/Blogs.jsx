@@ -29,7 +29,7 @@ const Blogs = () => {
     <>
         <Navbar title="Comic World"/>
 
-    <div className="min-h-screen bg-gray-100 p-8 bg-cover bg-center bg-[url('464908.jpg')]">
+    <div className="min-h-screen bg-gray-100 p-8 bg-cover bg-center bg-[url('/464908.jpg')]">
       
       <h1 className="text-4xl font-bold text-center mb-8 text-green-400">Comic Blog</h1>
       <div className="max-w-4xl mx-auto">

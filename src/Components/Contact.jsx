@@ -27,7 +27,7 @@ const Contact = () => {
 <>
 <Navbar title="Comic World"/>
 
-    <div className="min-h-screen  bg-cover bg-center bg-[url('1344450.jpeg')] flex items-center justify-center">
+    <div className="min-h-screen  bg-cover bg-center bg-[url('/1344450.jpeg')] flex items-center justify-center">
       
       <div className="bg-white opacity-85 p-9 rounded shadow-md w-full max-w-md">
         <h2 className="text-3xl font-semibold mb-9 text-center">Contact Us</h2>
