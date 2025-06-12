@@ -25,7 +25,7 @@ export default function Movie1() {
 <Navbar title="Comic World"/>
 
         
-      <div className= "h-screen bg-[url('Havoc-2025-Netflix-Review.jpg')] bg-cover ">
+      <div className= "h-screen bg-[url('/Havoc-2025-Netflix-Review.jpg')] bg-cover ">
       <div className=" h-screen bg-gradient-to-b from-green-500/0 to-green-500/100 opacity-100">
       <div className='flex justify-center'>
      <div className='text-white  mt-80'>

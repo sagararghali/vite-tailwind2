@@ -32,7 +32,7 @@ const Timeline = () => {
 
   return (
     <div className="min-h-screen bg-gray-100  py-8">
-      <div className="max-w-4xl mx-auto min-h-screen  bg-cover bg-center bg-[url('1008721.png')] shadow-md rounded-lg p-6">
+      <div className="max-w-4xl mx-auto min-h-screen  bg-cover bg-center bg-[url('/1008721.png')] shadow-md rounded-lg p-6">
         <h1 className="text-5xl font-bold text-center text-white mb-8">Our Journey</h1>
         <div className="relative">
          {/* centerline */}
