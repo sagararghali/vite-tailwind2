@@ -16,7 +16,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('images.jpeg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/images.jpeg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -41,7 +41,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('thumb-350-1012732.png')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/thumb-350-1012732.png')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -67,7 +67,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -93,7 +93,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('thumb-350-850334.jpg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/thumb-350-850334.jpg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -118,7 +118,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('81218n6JFgL._AC_UF1000,1000_QL80_.jpg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/81218n6JFgL._AC_UF1000,1000_QL80_.jpg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -140,7 +140,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('thumb-350-985877.jpg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/thumb-350-985877.jpg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -162,7 +162,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('inter.jpeg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/inter.jpeg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -184,7 +184,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('thumb-1920-906860.jpeg')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/thumb-1920-906860.jpeg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"

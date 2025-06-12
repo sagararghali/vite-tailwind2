@@ -35,7 +35,7 @@ export default function Movie1() {
       <div className="flex ml-32">
       <div className='grid mt-[50px]'>
        
-       <div className=" w-[180px] h-[270px] bg-cover bg-center bg-[url('thumb-350-1012732.png')]"></div>
+       <div className=" w-[180px] h-[270px] bg-cover bg-center bg-[url('/thumb-350-1012732.png')]"></div>
        
        <div className='flex justify-between'>
         <button className='h-8 w-20 rounded bg-blue-800 text-white flex justify-center items-center'> <BiLike />
