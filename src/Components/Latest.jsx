@@ -113,6 +113,7 @@ export default function latest(props) {
 </Link>
 
 
+<Link to ="/oppenheimer">
 <div
   class="relative group cursor-pointer overflow-hidden duration-500 w-48 h-80 md:w-64 md:h-80 rounded-lg bg-zinc-800 text-gray-50 p-5"
 >
@@ -135,6 +136,11 @@ export default function latest(props) {
     </div>
   </div>
 </div>
+</Link>
+
+
+
+<Link to="/avatar">
 <div
   class="relative group cursor-pointer overflow-hidden duration-500 w-48 h-80 md:w-64 md:h-80 rounded-lg bg-zinc-800 text-gray-50 p-5"
 >
@@ -157,6 +163,11 @@ export default function latest(props) {
     </div>
   </div>
 </div>
+</Link>
+
+
+<Link to="/interstellar">
+
 <div
   class="relative group cursor-pointer overflow-hidden duration-500 w-48 h-80 md:w-64 md:h-80 rounded-lg bg-zinc-800 text-gray-50 p-5"
 >
@@ -179,6 +190,9 @@ export default function latest(props) {
     </div>
   </div>
 </div>
+</Link>
+<Link to="/godzilla">
+
 <div
   class="relative group cursor-pointer overflow-hidden duration-500 w-48 h-80 md:w-64 md:h-80 rounded-lg bg-zinc-800 text-gray-50 p-5"
 >
@@ -201,6 +215,8 @@ export default function latest(props) {
     </div>
   </div>
 </div>
+
+</Link>
 
 </div>
 

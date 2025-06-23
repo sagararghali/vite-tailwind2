@@ -13,19 +13,15 @@ import Recommend from './Recommend';
 
 
 import { FaSquareXTwitter } from "react-icons/fa6";
-
-
-
-export default function Movie1() {
+export default function Oppenheimer() {
   return (
- <>
+<>
+<div className='bg-green-500'>
 
-    <div className='bg-green-500'>
-     
 <Navbar title="Comic World"/>
 
         
-      <div className= "h-screen bg-[url('/Havoc-2025-Netflix-Review.jpg')] bg-cover ">
+      <div className= "h-screen bg-[url('Oppenheimer-Christopher-Nolan.jpg')] bg-cover ">
       <div className=" h-screen bg-gradient-to-b from-green-500/0 to-green-500/100 opacity-100">
       <div className='flex justify-center'>
      <div className='text-white  mt-80'>
@@ -35,7 +31,7 @@ export default function Movie1() {
       <div className="flex ml-32">
       <div className='grid mt-[50px]'>
        
-       <div className=" w-[180px] h-[270px] bg-cover bg-center bg-[url('/MV5BOWFiNWVlOWYtYjg1NS00ZjQ0LWI3N2QtZjdmM2I5OGI3NTBjXkEyXkFqcGc@._V1_.jpg')]"></div>
+       <div className=" w-[180px] h-[270px] bg-cover bg-center bg-[url('/81218n6JFgL._AC_UF1000,1000_QL80_.jpg')]"></div>
        
        <div className='flex justify-between'>
         <button className='h-8 w-20 rounded bg-blue-800 text-white flex justify-center items-center'> <BiLike />
@@ -54,14 +50,14 @@ export default function Movie1() {
             Add to favorite</button>
 
         </div>
-        <div className='p-5 ml-2 text-3xl font-bold text-white opacity-100 '> Hovic</div>
+        <div className='p-5 ml-2 text-3xl font-bold text-white opacity-100 '> Oppenheimer</div>
         <div className='flex space-x-6'>
             <button className='p-2 rounded-xl bg-white text-xl'>Trailer</button>
             <button className='p-2 font-bold  text-white border-4  rounded-xl'>HD</button>
             <button className='font-bold text-lg '>IMDB:?</button>
 
         </div>
-        <p className='mt-3 text-white'>The Hovic is a 1972 American epic gangster film[2] directed by Francis Ford Coppola, <br/>who co-wrote the screenplay with Mario Puzo, based on Puzo's best-selling 1969 novel.</p>
+        <p className='mt-3 text-white'>The Godfather is a 1972 American epic gangster film[2] directed by Francis Ford Coppola, <br/>who co-wrote the screenplay with Mario Puzo, based on Puzo's best-selling 1969 novel.</p>
         <div className='mt-2 flex gap-6'>
                 <ul className='font-bold  text-white'>
                 <li>Directed By: Francis Ford Coppola</li>
@@ -90,7 +86,6 @@ Sterling Hayden,
       </div>  
     </div> 
       </div>
-
 <div className='flex justify-center'>
 <div className='grid gap-2 place-items-center mt-60 p-2 bg-green-400 rounded h-30 w-full mr-60 ml-60'>
     <div>If current server doesn't work please try other servers below.</div>
@@ -100,7 +95,6 @@ Sterling Hayden,
     </div>
 </div>
 </div>
-
 <p className='flex justify-center p-4 text-lg '>Share Through: </p>
 <div className='flex gap-8 justify-center items-center'>
 <button> <FaFacebook size={40}  /></button>
@@ -114,7 +108,7 @@ Sterling Hayden,
 
 <Recommend topic="You may also like:"/>
       </div>
-    
- </>
-  )
+</>
+
+)
 }

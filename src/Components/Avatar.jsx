@@ -13,10 +13,7 @@ import Recommend from './Recommend';
 
 
 import { FaSquareXTwitter } from "react-icons/fa6";
-
-
-
-export default function Movie1() {
+export default function Avatar() {
   return (
  <>
 
@@ -25,7 +22,7 @@ export default function Movie1() {
 <Navbar title="Comic World"/>
 
         
-      <div className= "h-screen bg-[url('/Havoc-2025-Netflix-Review.jpg')] bg-cover ">
+      <div className= "h-screen bg-[url('/avatar.jpg')] bg-cover ">
       <div className=" h-screen bg-gradient-to-b from-green-500/0 to-green-500/100 opacity-100">
       <div className='flex justify-center'>
      <div className='text-white  mt-80'>
@@ -35,7 +32,7 @@ export default function Movie1() {
       <div className="flex ml-32">
       <div className='grid mt-[50px]'>
        
-       <div className=" w-[180px] h-[270px] bg-cover bg-center bg-[url('/MV5BOWFiNWVlOWYtYjg1NS00ZjQ0LWI3N2QtZjdmM2I5OGI3NTBjXkEyXkFqcGc@._V1_.jpg')]"></div>
+       <div className=" w-[180px] h-[270px] bg-cover bg-center bg-[url('/thumb-350-985877.jpg')]"></div>
        
        <div className='flex justify-between'>
         <button className='h-8 w-20 rounded bg-blue-800 text-white flex justify-center items-center'> <BiLike />
@@ -54,7 +51,7 @@ export default function Movie1() {
             Add to favorite</button>
 
         </div>
-        <div className='p-5 ml-2 text-3xl font-bold text-white opacity-100 '> Hovic</div>
+        <div className='p-5 ml-2 text-3xl font-bold text-white opacity-100 '> Avatar</div>
         <div className='flex space-x-6'>
             <button className='p-2 rounded-xl bg-white text-xl'>Trailer</button>
             <button className='p-2 font-bold  text-white border-4  rounded-xl'>HD</button>
@@ -116,5 +113,6 @@ Sterling Hayden,
       </div>
     
  </>
-  )
+
+)
 }

@@ -91,7 +91,7 @@ Sterling Hayden,
     </div> 
       </div>
 <div className='flex justify-center'>
-<div className='grid gap-2 place-items-center mt-40 p-2 bg-green-400 rounded h-30 w-full mr-60 ml-60'>
+<div className='grid gap-2 place-items-center mt-6  0 p-2 bg-green-400 rounded h-30 w-full mr-60 ml-60'>
     <div>If current server doesn't work please try other servers below.</div>
     <div className='p-2 flex gap-40'>
         <button className='flex items-center gap-3 bg-white p-3 rounded-xl hover:bg-gray-300'> <PiPlayPauseFill size={25}/><div>server <br/><strong>upcloud</strong></div></button>
