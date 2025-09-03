@@ -7,7 +7,7 @@ import About from './Components/About.jsx';
 import Login from './Components/Login.jsx';
 import Contact from './Components/Contact.jsx';
 import Blogs from './Components/Blogs.jsx';
-
+import Service from './Components/Service.jsx';
 
 import Movie1 from './Components/Movie1.jsx';
 import Blackwidow from './Components/Blackwidow.jsx';
@@ -30,6 +30,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       {/* <Route path="/homepage" element={</>} /> */}
       <Route path="/blogspage" element={<Blogs/>} />
       <Route path="/contactpage" element={<Contact/>} /> 
+      
       <Route path="/movie1" element={<Movie1/>} /> 
       <Route path="/blackwidow" element={<Blackwidow/>} /> 
       <Route path="/hovic1" element={<Hovic/>} /> 

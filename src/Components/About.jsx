@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
     
-    <div className=''>
+    <div className=''>                         
     <Navbar title="Comic World"/>
     </div>
     <div className="  p-8  bg-center bg-cover bg-[url('/1310205.jpeg')] ">
