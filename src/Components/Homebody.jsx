@@ -4,6 +4,7 @@ import Hovercard from './Hovercard';
 import Latest from './Latest';
 import Recommend from './Recommend';
 import FAQ from './FAQ';
+import Price from './Price';
 export default function Homebody() {
   return (
     <div>
@@ -13,6 +14,7 @@ export default function Homebody() {
 <Latest topic="Latest:"/>
 <Recommend topic="Recommended for you:"/>
 <FAQ/>
+<Price/>
     </div>
   )
 }
