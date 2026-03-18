@@ -41,7 +41,7 @@ export default function Recommend(props) {
 >
   <div class="">
     <div
-      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('/thumb-350-1012732.png')] duration-500 rounded-lg"
+      class="group-hover:scale-110 w-full h-64 bg-cover bg-center bg-[url('war-machine1.jpg')] duration-500 rounded-lg"
     ></div>
     <div
       class="absolute w-56 left-0 p-5 -bottom-32 md:-bottom-20 duration-500 group-hover:-translate-y-32 md:group-hover:-translate-y-20"
@@ -49,7 +49,7 @@ export default function Recommend(props) {
       <div
         class="absolute -z-10 left-0 w-64 h-40 md:h-32 opacity-0 duration-500 group-hover:opacity-50 group-hover:bg-blue-900 "
       ></div>
-      <span class="ml-1 mt-6 text-xl font-bold  ">Black Widow</span>
+      <span class="ml-1 mt-6 text-xl font-bold  ">War Machine</span>
       <p class="group-hover:opacity-100 w-48 md:w-64 duration-500 opacity-0">
      <strong>Director</strong>- Francis Ford Coppola <br/>
      <strong>Release date</strong>- March 24,1972<br/>
