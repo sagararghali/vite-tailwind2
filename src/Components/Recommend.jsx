@@ -34,7 +34,8 @@ export default function Recommend(props) {
   </div>
 </div>
 </Link>
-<Link to="/blackwidow">
+
+<Link to="/warmachine">
 
 <div
   class="relative group cursor-pointer overflow-hidden duration-500 w-48 h-80 md:w-64 md:h-80 rounded-lg bg-zinc-800 text-gray-50 p-5"

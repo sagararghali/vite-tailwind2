@@ -18,6 +18,7 @@ import Oppenheimer from './Components/Oppenheimer.jsx';
 import Avatar from './Components/Avatar.jsx';
 import Interstellar from './Components/Interstellar.jsx';
 import Godzilla from './Components/Godzilla.jsx';
+import Warmachine from './Components/Warmachine.jsx';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -40,6 +41,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Route path="/avatar" element={<Avatar/>} /> 
       <Route path="/interstellar" element={<Interstellar/>} /> 
       <Route path="/godzilla" element={<Godzilla/>} /> 
+            <Route path="/warmachine" element={<Warmachine/>} /> 
+
 
 
 
