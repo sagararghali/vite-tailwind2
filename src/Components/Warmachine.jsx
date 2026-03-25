@@ -20,7 +20,7 @@ export default function Warmachine() {
   return (
  <>
 
-    <div className='bg-green-500'>
+    <div className='bg-green-400'>
      
 <Navbar title="Comic World"/>
 
